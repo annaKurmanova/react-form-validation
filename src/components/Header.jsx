@@ -5,7 +5,12 @@ const Header = () => {
   return (
     <HeaderStyled>
       <h1>This is a react form</h1>
-      <a href="/">See code on GitHub</a>
+      <a
+        href="https://github.com/annaKurmanova/react-form-validation"
+        target="_blank"
+      >
+        See code on GitHub
+      </a>
     </HeaderStyled>
   );
 };
